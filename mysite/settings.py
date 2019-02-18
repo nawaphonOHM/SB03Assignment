@@ -25,7 +25,7 @@ SECRET_KEY = '#r#hro#7auw_l!@@clb^g_=pxq74a_vf2s1=z!$ht3suzj**ug'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost-sb03.paiza-user.cloud', 'nawaphon2539.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost-sb03.paiza-user.cloud', "nawaphon2539.pythonanywhere.com"]
 
 
 # Application definition
